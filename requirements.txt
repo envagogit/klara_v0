@@ -5,3 +5,6 @@ wikipedia
 chromadb
 tiktoken
 streamlit-extras
+streamlit_chat
+dotenv
+streamlit-chatbox
